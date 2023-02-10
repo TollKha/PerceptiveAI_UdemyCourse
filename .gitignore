@@ -76,3 +76,4 @@ DerivedDataCache/*
 # Temp asset files
 Content/__ExternalObjects__/*
 Content/__ExternalActors__/*
+JSON/Schemas/*
